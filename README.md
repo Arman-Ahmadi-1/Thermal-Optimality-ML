@@ -102,4 +102,4 @@ Licensed under the [MIT License](LICENSE).
 ## ✉️ Contact
 **Arman Ahmadi**  
 📧 a.ahmadi@berkeley.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/arman-ahmadi/) · [Google Scholar](https://scholar.google.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/arman-ahmadi/) · [Google Scholar](https://scholar.google.com/citations?user=oRpYGmIAAAAJ&hl=en&oi=ao)
