@@ -1,0 +1,23 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter support
+jupyter
+notebook
+
+# Model interpretation & analysis
+PyALE
+pdpbox
+optuna
+
+# Utility
+tqdm
+pathlib
+glob2
+
+# Trend analysis
+pymannkendall
