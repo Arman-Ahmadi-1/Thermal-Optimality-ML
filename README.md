@@ -42,7 +42,7 @@ thermal-optimality-ml/
 │   └── sample/              <- sample CSVs for quick demo (two AmeriFlux sites)
 │
 ├── notebooks/
-│   └── 00_research_archive.ipynb <- main analysis notebook (Colab, extra cells & details)
+│   └── 00_research_archive.ipynb <- original analysis notebook (Colab, extra cells & details)
 │   └── 01_quickstart.ipynb <- reproducible notebook
 │
 ├── outputs/                 <- generated artifacts for the demo run
