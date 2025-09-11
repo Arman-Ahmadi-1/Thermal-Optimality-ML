@@ -6,7 +6,7 @@ Interpretable machine learning framework for analyzing how **water availability 
 
 > **Ahmadi et al., 2025** – *Interpretable Machine Learning Reveals the Crucial Role of Water Availability in Regulating Thermal Optimality of Terrestrial Ecosystems.*  
 > Journal of Geophysical Research: Machine Learning and Computation.  
-> [https://doi.org/10.1029/2024JH000445](https://doi.org/10.1029/2024JH000445)
+> [Paper Link (Open Access)](https://doi.org/10.1029/2024JH000445)
 
 ---
 
