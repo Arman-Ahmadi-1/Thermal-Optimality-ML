@@ -39,7 +39,7 @@ Expected runtime: ~1 minute with sample data.
 thermal-optimality-ml/
 │
 ├── data/
-│   └── sample/              <- tiny CSVs for quick demo (two AmeriFlux sites)
+│   └── sample/              <- sample CSVs for quick demo (two AmeriFlux sites)
 │
 ├── notebooks/
 │   └── 00_research_archive.ipynb <- main analysis notebook (Colab, extra cells & details)
