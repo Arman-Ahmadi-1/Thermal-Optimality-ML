@@ -39,19 +39,19 @@ Expected runtime: ~1 minute with sample data.
 thermal-optimality-ml/
 │
 ├── data/
-│   └── sample/              <- sample CSVs for quick demo (two AmeriFlux sites)
+│   └── sample/                   <- sample CSVs for quick demo (two AmeriFlux sites)
 │
 ├── notebooks/
 │   └── 00_research_archive.ipynb <- original analysis notebook (Colab, extra cells & details)
-│   └── 01_quickstart.ipynb <- reproducible notebook
+│   └── 01_quickstart.ipynb       <- reproducible notebook
 │
-├── outputs/                 <- generated artifacts for the demo run
+├── outputs/                      <- generated artifacts for the demo run
 │
-├── src/                     <- placeholder – future refactor of helper functions
-├── docs/                    <- placeholder – project documentation
-├── tests/                   <- placeholder – future unit tests
+├── src/                          <- placeholder – future refactor of helper functions
+├── docs/                         <- placeholder – project documentation
+├── tests/                        <- placeholder – future unit tests
 │
-├── requirements.txt         <- dependencies
+├── requirements.txt              <- dependencies
 ├── LICENSE
 └── README.md
 ```
